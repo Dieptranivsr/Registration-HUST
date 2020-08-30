@@ -1,8 +1,7 @@
 # Registration-HUST
-Auto register Class of Hust
 
-# registration
 ## Đăng kí lớp học HUST
+Auto register Class of Hust
 ## Yêu cầu
 - Python3
 
